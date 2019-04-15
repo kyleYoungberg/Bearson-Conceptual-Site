@@ -1,7 +1,6 @@
 # Bearson-Conceptual-Site
 A conceptual site as part of a conceptual brand idenity for the band Bearson
 
-Bearson Website
 Goals I accomplished:
 To make a website as a continued part of making a conceptual brand identity for a band and make the website consistent with the rest of the brand identity for the band
 
